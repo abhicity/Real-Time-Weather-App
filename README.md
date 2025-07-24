@@ -66,7 +66,7 @@ npm run dev
 ---
 
 ## 📝 License
-This project is licensed under the [MIT License]().
+This project is licensed under the [MIT License](./LICENSE).
 You are free to fork, use, and modify it.
 
 ---
